@@ -1,1 +1,1 @@
-# QReport
+# QReport, pagina hecha en Django
